@@ -81,7 +81,4 @@ niskie osiągi mojego linuxa również nie pomagają) o ile dla N równego 5, 6,
 czy 7 program kończy działanie błyskawicznie, o tyle dla N=8 muszę czekać
 około 80 sekund, a czekanie na N=9 przerwałem po 30 minutach wrażeniem, że
 marnuję czas.
-
-Postanowiłem nie wysyłać skompilowanego programu, żeby wykluczyć możliwość
-sfałszowania programu podstawieniem innego o tej samej nazwie.
 ===============================================================================
